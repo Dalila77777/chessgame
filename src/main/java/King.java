@@ -19,6 +19,7 @@ public class King extends Piece {
     public King Move(int finalx, int finaly)
     {
         Board board= new Board();
+        //
         return null;
     }
 
