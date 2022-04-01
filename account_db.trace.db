@@ -1,0 +1,117 @@
+2022-03-30 00:18:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 00:34:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 00:40:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 00:42:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 00:42:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 00:51:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 00:51:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 00:52:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 00:52:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 00:55:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 00:55:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 00:56:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 00:56:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 00:58:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 00:58:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 00:59:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 00:59:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 01:00:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 01:05:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 01:05:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 01:07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 01:10:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 01:11:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 01:13:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 01:13:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 01:14:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 01:14:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 01:16:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 01:16:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 01:17:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 01:17:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 01:45:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 01:45:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO King(X,Y)VALUES('2','2',[*]')"; SQL statement:
+INSERT INTO King(X,Y)VALUES('2','2',') [42000-210]
+2022-03-30 02:40:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "KING" not found (this database is empty); SQL statement:
+INSERT INTO King(X, Y, COLOR) VALUES(?) [42104-210]
+2022-03-30 02:44:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "KING" not found (this database is empty); SQL statement:
+INSERT INTO King(X, Y, COLOR) VALUES(?) [42104-210]
+2022-03-30 02:46:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "KING" not found (this database is empty); SQL statement:
+INSERT INTO King(X, Y, COLOR) VALUES(?) [42104-210]
+2022-03-30 02:47:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "KING" not found (this database is empty); SQL statement:
+INSERT INTO King(ID,X, Y, COLOR) VALUES(?) [42104-210]
+2022-03-30 02:50:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "KING" not found (this database is empty); SQL statement:
+INSERT INTO King(ID,X, Y, COLOR) VALUES(?) [42104-210]
+2022-03-30 02:53:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "KING" not found (this database is empty); SQL statement:
+INSERT INTO King(ID,X, Y, COLOR) VALUES(?) [42104-210]

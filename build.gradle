@@ -1,0 +1,32 @@
+plugins {
+    id 'java'
+    id "com.github.gmazzo.sqlite" version "0.2"
+
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+    /*maven {
+        url "https://plugins.gradle.org/m2/"
+    }*/
+}
+
+
+ dependencies {
+    implementation 'com.h2database:h2:2.1.210'
+    implementation 'junit:junit:4.13.2'
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.1'
+    implementation 'org.xerial:sqlite-jdbc:3.31.1'
+
+
+}
+//apply plugin: "com.github.gmazzo.sqlite"
+
+
+test {
+    useJUnitPlatform()
+}
