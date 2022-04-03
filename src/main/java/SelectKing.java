@@ -16,47 +16,7 @@ public class SelectKing {
         return conn;
     }
 
-    public int selectX()
-    {
-        String sql="SELECT x FROM updatekungsmovement";
-        int x =1;
-        try
 
-                (Connection conn= this.connect();
-            Statement stmt = conn.createStatement();
-            ResultSet rs= stmt.executeQuery(sql))
-        {
-            while (rs.next())
-            {
-                 x = rs.getInt("x");
-            }
-        } catch (SQLException e) {
-            //e.printStackTrace();
-            System.out.println(e.getMessage());
-        }
-        return x;
-    }
-
-    public int selectY()
-    {
-        String sql="SELECT y FROM updatekungsmovement";
-        int y =1;
-        try
-
-                (Connection conn= this.connect();
-                 Statement stmt = conn.createStatement();
-                 ResultSet rs= stmt.executeQuery(sql))
-        {
-            while (rs.next())
-            {
-                y = rs.getInt("y");
-            }
-        } catch (SQLException e) {
-            //e.printStackTrace();
-            System.out.println(e.getMessage());
-        }
-        return y;
-    }
     public void selectAll()
     {
         String sql="SELECT id, x,y FROM updatekungsmovement";
