@@ -1,11 +1,7 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.sql.Connection;
-import java.sql.DriverManager;
 import java.sql.SQLException;
-import java.sql.Statement;
-import java.time.MonthDay;
 
 public class Board {
     public int[][] board = new int[8][8];
@@ -25,14 +21,15 @@ public class Board {
     }
 
     public static void main(String[] args) throws IOException, SQLException {
-        Main main = new Main();
-        main.createNewDB("test.db");
-        testdB.createTable();
+        ChessDB chessDB = new ChessDB();
+        chessDB.createNewDB("test.db");
+        Kingtable.createTable();
         Player player= new Player("D", new Board(),new PieceColor());
         int a,b;
-        SelectKing selectKing= new SelectKing();
-        a = selectKing.selectX();
-        b = selectKing.selectY();
+        //SelectKing selectKing= new SelectKing();
+        InserApp inserApp = new InserApp();
+        a = inserApp.selectX();
+        b = inserApp.selectY();
         King king = new King(a,b,player,new PieceColor());
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 

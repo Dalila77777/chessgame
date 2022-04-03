@@ -1,6 +1,6 @@
 import java.sql.*;
 
-public class testdB {
+public class Kingtable {
     public static void createTable()
     {
         String url= "jdbc:sqlite:C://sqlite/db/test.db";
