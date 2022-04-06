@@ -16,22 +16,11 @@ public class King extends Piece {
 
     }
 
-    public King Move(int finalx, int finaly)
+    /*public King Move(int finalx, int finaly)
     {
         Board board= new Board();
-        //
+
         return null;
-    }
-
-    /*public boolean isvalid(int a, int b)
-    {
-        if((a==x+1 &&b==y+1) ||(a==x-1 && b==y-1) || (a==x && b==y-1) || (a==x && b==y+1) || (a==x+1 && b==y) || (a==x-1 && b==y))
-        {
-            return true;
-        }
-        else if ((a==x+1 &&b==y-1) ||(a==x-1 && b==y+1))
-            return true;
-
-        return false;
     }*/
+
 }

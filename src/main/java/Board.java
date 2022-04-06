@@ -13,11 +13,11 @@ public class Board {
 //        this.x=x;
 //        this.y=y;
 //    }
-    public int Location() {
+    public int Squares() {
 
-        int location = board[x][y];
+        int square = board[x][y];
 
-        return location;
+        return square;
     }
 
     public static void main(String[] args) throws IOException, SQLException {
